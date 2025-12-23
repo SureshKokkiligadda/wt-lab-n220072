@@ -1,0 +1,28 @@
+div{
+    display: inline-block;
+    margin-left: 150px;
+    padding: 15px;
+    border: 2px solid blue;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 1em;
+    color: aliceblue;
+    font-family: sans-serif;
+    
+}
+
+.body{
+    background-color: rgb(11, 10, 10);
+}
+div:hover{
+        box-shadow: 0px 5px 16px blue;
+        transition:0.5s ease-in-out;
+
+
+}
+.img{
+    width: 200px;
+    height: 220px;
+    box-shadow: 0px 5px 10px;
+
+}
